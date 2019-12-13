@@ -3,6 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://ai4every1.cn/</loc>
+    <lastmod>2019-12-13T22:10:09+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ai4every1.cn/posts/</loc>
+    <lastmod>2019-12-13T22:10:09+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ai4every1.cn/posts/computer-history/thomashobbes/</loc>
+    <lastmod>2019-12-13T22:10:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ai4every1.cn/posts/computer-history/overview/</loc>
+    <lastmod>2019-12-13T22:08:46+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ai4every1.cn/posts/content/posts/computer-history/dreamers/</loc>
+    <lastmod>2019-12-13T21:58:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ai4every1.cn/posts/computer-history/ramonllull/</loc>
+    <lastmod>2019-12-13T21:54:58+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://ai4every1.cn/posts/computer-history/athanasius-kircher/</loc>
     <lastmod>2019-10-13T20:45:05+08:00</lastmod>
   </url>
@@ -18,19 +50,7 @@
   </url>
   
   <url>
-    <loc>http://ai4every1.cn/</loc>
-    <lastmod>2019-10-13T20:45:05+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://ai4every1.cn/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ai4every1.cn/posts/</loc>
-    <lastmod>2019-10-13T20:45:05+08:00</lastmod>
     <priority>0</priority>
   </url>
   
